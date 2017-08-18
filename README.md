@@ -1,5 +1,5 @@
 # Simple-Weather-WebApp-using-NodeJs
-# Ledbetter
+
 
 A small Web Application using NodeJs at backend and Weather API to show the weather of any city in the world instantly. 
 
