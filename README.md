@@ -12,5 +12,5 @@ $ cd Simple-Weather-WebApp-using-NodeJs
 $ npm install
 $ node server.js
 ```
-##Credit
+## Credit
 Credit goes to [Brandon Morelli](https://codeburst.io/@bmorelli25). Followed this tutorial for making this app in this short time.
